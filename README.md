@@ -1,5 +1,5 @@
 # skt_ai_fellowship
 
-5월 8일 1차 서류 제출
+주제 : 설비(로봇)의 잔여수명 예측
 
-5월 17일 1차 결과 발표
+참고 : https://velog.io/@dangdang2222
